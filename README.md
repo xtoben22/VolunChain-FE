@@ -52,12 +52,6 @@ npm install
      
 3. Access the application at [http://localhost:3000](http://localhost:3000).  
 
----
-
-## Maintainers 👥  
-- **Kevin Latino** 
-- **Santiago Villarreal** 
- 
 
 ---
 
